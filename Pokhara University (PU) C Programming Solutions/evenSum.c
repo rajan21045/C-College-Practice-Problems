@@ -10,11 +10,11 @@ int main(){
 		 printf("There are no even numbers up to %d.\n", num);
 		 return 0;
 	}
+	
 	else{
-		
 	for(i=2;i<=num;i+=2){
 		sum += i;
-		}	
+					}	
 	}
 	
 	printf("The Sum Of Even Numbers From 1 To %d Is %d", num, sum);
