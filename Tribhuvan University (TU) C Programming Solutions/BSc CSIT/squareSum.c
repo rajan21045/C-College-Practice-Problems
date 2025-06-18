@@ -2,6 +2,7 @@
 int main()
 {
 	int i,n;
+    
 	printf("Enter The Number: ");
 	scanf("%d",&n);
 	
@@ -18,6 +19,6 @@ int main()
 }
 
 /*
-Write a program that uses ìwhileîloop to compute and prints the sum of a given numbers of squares. 
+Write a program that uses ‚Äúwhile‚Äùloop to compute and prints the sum of a given numbers of squares. 
 For example, if 4 is input, then the program will print 30, which is equal to 12+22+32+42
 */
