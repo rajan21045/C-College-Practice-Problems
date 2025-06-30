@@ -1,12 +1,12 @@
 /*
-Write a C program to find the sum of two matrix of order m×n. 
+Write a C program to find the sum of two matrix of order mÃ—n. 
 
 */
 
 #include<stdio.h>
 int main(){
 	
-	
+
 	int first[40][40],second[40][40],sum[40][40];
 	int i,j,m,n;
 	
