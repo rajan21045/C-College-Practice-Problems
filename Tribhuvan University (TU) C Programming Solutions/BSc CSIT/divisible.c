@@ -4,7 +4,7 @@ Write a C code to check if user given input is exactly divisible by 5 or 11 usin
 
 #include<stdio.h>
 int main(){
-	
+
 	int n;
 	printf("Enter The Number: ");
 	scanf("%d",&n);
